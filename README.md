@@ -1,4 +1,4 @@
-Tkinter-SQLite Data Entry and Retrieval System
+<h1>Tkinter-SQLite Data Entry and Retrieval System</h1>
 This project allows users to enter and retrieve data using a Python-based GUI built with Tkinter and SQLite. The interface enables data entry and displays the stored data through a simple retrieval process.
 
 Features
